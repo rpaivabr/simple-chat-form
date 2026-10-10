@@ -2,7 +2,7 @@
 
 Este repositório contém o material prático do workshop de integração entre Angular moderno (v18+) e a API do Google Gemini. O objetivo é transformar formulários longos e tediosos em uma experiência de bate-papo fluida, validando dados e extraindo um JSON final estruturado.
 
-**🚀 Teste o aplicativo rodando:** [Insira o link do seu deploy aqui]
+**🚀 Teste o aplicativo rodando:** [chat-form-demo](https://chat-form-demo.web.app/)
 
 ## Pré-requisitos
 
